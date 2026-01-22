@@ -31,12 +31,6 @@ This project implements a simple **popup UI for TutorTots**, built with HTML and
 ## Dependencies
 - **Bulma CSS** (local `bulma.min.css` file)
 
----
-
-## Notes
-- All interactive behavior is handled in `popup.js`
-- This file focuses only on structure and styling
-- Additional accessibility features (ARIA labels, keyboard handling) can be added if needed
 
 ---
 
